@@ -14,9 +14,9 @@ kaleido
 flask
 flask-sock
 sqlalchemy
-langchain[all]>=0.1.12
-langchain-openai>=0.0.8
-langchain-experimental>=0.0.54
+# langchain[all]>=0.1.12
+# langchain-openai>=0.0.8
+# langchain-experimental>=0.0.54
 sentence-transformers>=2.7.0
 flasgger
-pgvector
+# pgvector
